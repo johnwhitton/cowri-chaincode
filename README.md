@@ -7,7 +7,7 @@ Chain Code for Cowri
 * [Solidity Documentation](https://solidity.readthedocs.io/en/latest/index.html)
 * [Truffle Framework](https://truffleframework.com/)
 * [Truffle Boxes](https://truffleframework.com/boxes)
-  * [EtherPlate - ERC721](https://truffleframework.com/boxes/etherplate)
+  * [EtherPlate - eERC721](https://truffleframework.com/boxes/etherplate)
 * [Open Zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
 
 
